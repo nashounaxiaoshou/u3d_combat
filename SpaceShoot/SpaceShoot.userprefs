@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\PlayerController.js">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\testtf\New Unity Project 3\Assets\scripts\8_6\guitest.js">
     <Files>
-      <File FileName="Assets\Script\PlayerController.js" Line="10" Column="30" />
+      <File FileName="..\..\testtf\New Unity Project 3\Assets\scripts\8_6\guitest.js" Line="21" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
